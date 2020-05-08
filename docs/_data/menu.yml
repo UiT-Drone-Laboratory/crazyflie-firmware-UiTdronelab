@@ -1,0 +1,29 @@
+- page_id: home
+- title: Building and Flashing
+  subs:
+    - {page_id: build_instructions}
+    - {page_id: dfu}
+- title: Userguides
+  subs:
+    - {page_id: deck}
+    - {page_id: decks-index}
+    - {page_id: logparam}
+    - {page_id: app_layer}
+- title: Functional areas
+  subs:
+    - {page_id: sensor_to_control}
+    - {page_id: controllers}
+    - {page_id: state_estimators}
+    - {page_id: ctrp_index}
+    - {page_id: deck_memory_format}
+    - {page_id: p2p_api}
+    - {page_id: trajectory_formats}
+    - {page_id: light_house_overview}
+- title: Development Instructions
+  subs:
+    - {page_id: starting_development}
+    - {page_id: howto}
+    - {page_id: serial}
+    - {page_id: openocd_gdb_debugging}
+    - {page_id: unit_testing}
+    - {page_id: systemtask}
